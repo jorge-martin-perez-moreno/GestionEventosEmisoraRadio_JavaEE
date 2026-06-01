@@ -1,6 +1,6 @@
 # 📻 Gestión de Eventos de Emisora de Radio — Java EE
 <p align="center">
-  <img src="screenshot.png" alt="Captura del proyecto" width="600">
+  <img src="screenshoot/Image1.png" alt="Captura del proyecto" width="700">
 </p>
 
 Aplicación web desarrollada en Java EE diseñada para la gestión de eventos musicales de una emisora de radio. Incluye sistema de autenticación de usuarios (login/logout), listado de eventos y búsqueda por criterio. Arquitectura MVC con patrón Front Controller y manejo de excepciones personalizadas.
@@ -122,3 +122,13 @@ Edita el archivo `src/main/webapp/META-INF/context.xml` con tus credenciales de 
 2. Añade el proyecto al servidor Tomcat configurado en Eclipse
 3. Inicia el servidor
 4. Accede a: http://localhost:8080/JavaEEGestionEventosEmisora
+
+<p align="center">
+  <img src="screenshoot/Image1.png" alt="Captura del proyecto" width="700">
+</p>
+<p align="center">
+  <img src="screenshoot/Image2.png" alt="Captura del proyecto" width="700">
+</p>
+<p align="center">
+  <img src="screenshoot/Image3.png" alt="Captura del proyecto" width="700">
+</p>
