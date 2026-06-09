@@ -132,3 +132,5 @@ Edita el archivo `src/main/webapp/META-INF/context.xml` con tus credenciales de 
 <p align="center">
   <img src="screenshoot/Image3.png" alt="Captura del proyecto" width="700">
 </p>
+
+Cambio simulado de un compañero
