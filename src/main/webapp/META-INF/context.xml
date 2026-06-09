@@ -11,7 +11,7 @@
 			  driverClassName="com.mysql.cj.jdbc.Driver"
 			  url="jdbc:mysql://localhost:3306/festivaldb2"
 			  username="root"
-			  password="admin123"
+			  password="1234abcd"
 			  maxTotal="20"
 			  maxIdle="10"
 			  maxWaitMillis="10000"
